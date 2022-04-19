@@ -2,7 +2,7 @@
 /* eslint-disable @next/next/link-passhref */
 import axios from 'axios'
 import Head from 'next/head'
-import { useEffect, useState } from 'react/cjs/react.development'
+import { useEffect, useState } from 'react'
 import Feature from '../components/Feature'
 import Header from '../components/Header'
 import Recipes from '../components/Recipes'
